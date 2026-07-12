@@ -1,7 +1,7 @@
 # ☕ JuraConnect
 
 <p align="center">
-  <img src="images/Micro90/your-finished-photo.jpg" width="700">
+  <img src="https://github.com/Mommekjr/JuraConnect/blob/main/images/Wiring/wire-03.JPG" width="700">
 </p>
 
 <p align="center">
