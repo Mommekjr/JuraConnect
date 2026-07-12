@@ -13,8 +13,8 @@
 
 ## ✨ Features
 
-- ☕ Start brewing remotely
-- 📡 Wi-Fi connectivity
+- ☕ Remote coffee brewing
+- 📡 Wi-Fi enabled
 - 🏠 Native Home Assistant integration
 - 📊 Machine statistics
 - 🔧 Read service information
